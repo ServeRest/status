@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/serverest.dev",
     "slug": "serve-rest-dev",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 677,
-    "timeDay": 718,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 678,
+    "timeDay": 693,
     "timeWeek": 673,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2020-12-21": 16
     }
