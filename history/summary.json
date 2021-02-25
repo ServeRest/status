@@ -6,9 +6,9 @@
     "slug": "serve-rest-dev",
     "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "64.55%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "64.31%",
+    "uptimeWeek": "93.92%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.36%",
     "time": 712,
     "timeDay": 890,
@@ -16,11 +16,71 @@
     "timeMonth": 854,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2021-02-25": 0,
+      "2021-02-25": 4,
       "2021-02-24": 510,
       "2021-02-23": 76,
       "2021-02-22": 23,
       "2020-12-21": 16
+    }
+  },
+  {
+    "name": "API /usuarios",
+    "url": "http://serverest.dev/usuarios",
+    "icon": "https://favicons.githubusercontent.com/serverest.dev",
+    "slug": "api-usuarios",
+    "status": "down",
+    "uptime": "31.17%",
+    "uptimeDay": "31.17%",
+    "uptimeWeek": "31.17%",
+    "uptimeMonth": "31.17%",
+    "uptimeYear": "31.17%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-02-25": 1
+    }
+  },
+  {
+    "name": "API /carrinhos",
+    "url": "http://serverest.dev/carrinhos",
+    "icon": "https://favicons.githubusercontent.com/serverest.dev",
+    "slug": "api-carrinhos",
+    "status": "down",
+    "uptime": "45.91%",
+    "uptimeDay": "45.91%",
+    "uptimeWeek": "45.91%",
+    "uptimeMonth": "45.91%",
+    "uptimeYear": "45.91%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-02-25": 1
+    }
+  },
+  {
+    "name": "API /produtos",
+    "url": "http://serverest.dev/produtos",
+    "icon": "https://favicons.githubusercontent.com/serverest.dev",
+    "slug": "api-produtos",
+    "status": "down",
+    "uptime": "85.62%",
+    "uptimeDay": "85.62%",
+    "uptimeWeek": "85.62%",
+    "uptimeMonth": "85.62%",
+    "uptimeYear": "85.62%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-02-25": 0
     }
   }
 ]
