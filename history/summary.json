@@ -4,19 +4,19 @@
     "url": "http://serverest.dev/",
     "icon": "https://favicons.githubusercontent.com/serverest.dev",
     "slug": "serve-rest-dev",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 683,
     "timeDay": 640,
     "timeWeek": 696,
     "timeMonth": 696,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2021-02-25": 12
+      "2021-02-25": 0
     }
   },
   {
@@ -24,53 +24,59 @@
     "url": "http://serverest.dev/usuarios",
     "icon": "https://favicons.githubusercontent.com/serverest.dev",
     "slug": "api-usuarios",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 127,
     "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   },
   {
     "name": "API /carrinhos",
     "url": "http://serverest.dev/carrinhos",
     "icon": "https://favicons.githubusercontent.com/serverest.dev",
     "slug": "api-carrinhos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 126,
     "timeDay": 126,
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   },
   {
     "name": "API /produtos",
     "url": "http://serverest.dev/produtos",
     "icon": "https://favicons.githubusercontent.com/serverest.dev",
     "slug": "api-produtos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 127,
     "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   }
 ]
