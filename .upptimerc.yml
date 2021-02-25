@@ -6,7 +6,22 @@ repo: serverest-status-uptime # Your Github repository name
 sites:
   - name: ServeRest.dev
     url: http://serverest.dev/
-    maxResponseTime: 3000
+    maxResponseTime: 600
+  - name: API /usuarios
+    url: http://serverest.dev/usuarios
+    headers:
+      - "monitor: uptime"
+    maxResponseTime: 600
+  - name: API /carrinhos
+    url: http://serverest.dev/carrinhos
+    headers:
+      - "monitor: uptime"
+    maxResponseTime: 600
+  - name: API /produtos
+    url: http://serverest.dev/produtos
+    headers:
+      - "monitor: uptime"
+    maxResponseTime: 600
 
 assignees:
   - PauloGoncalvesBH
@@ -23,6 +38,9 @@ status-website:
       href: https://github.com/PauloGoncalvesBH/serverest-status-uptime
     - title: ServeRest [GitHub]
       href: https://github.com/PauloGoncalvesBH/ServeRest
+
+workflowSchedule:
+  graphs: "0 */12 * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
