@@ -6,7 +6,7 @@ repo: serverest-status-uptime # Your Github repository name
 sites:
   - name: ServeRest.dev
     url: http://serverest.dev/
-    maxResponseTime: 600
+    maxResponseTime: 1000
   - name: API /usuarios
     url: http://serverest.dev/usuarios
     headers:
