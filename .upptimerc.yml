@@ -34,10 +34,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ServeRest Status
   navbar:
-    - title: ServeRest Status [GitHub] 
-      href: https://github.com/ServeRest/status
-    - title: ServeRest [GitHub]
+    - title: Status
+      href: /
+    - title: ServeRest
       href: https://github.com/PauloGoncalvesBH/ServeRest
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
   graphs: "0 */12 * * *"
