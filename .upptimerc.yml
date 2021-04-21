@@ -31,7 +31,7 @@ status-website:
   cname: status.serverest.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://user-images.githubusercontent.com/29241659/115503421-c7e7bf00-a24c-11eb-8381-cca0ef8d867c.png
   name: ServeRest Status
   navbar:
     - title: Status
